@@ -1,10 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 body {
     background-color: rgba(3, 3, 98, 0.292);
 }
 
 .container {
    margin: 150px;
-    width: 1080px;
+   width: 1080px;
 }
 .square {
     width: 90px;
